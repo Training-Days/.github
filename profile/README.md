@@ -1,7 +1,7 @@
 ## Welcome
 
 We started this company to build technology to help athletes and coaches reach
-their full potential using two main principles:
+their full potential guided by two main principles:
 
 1. **Human-Centered Approach**: engaging with real coaches, real athletes, and
    real teams to understand their needs and how best to build technology that
