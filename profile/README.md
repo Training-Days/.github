@@ -1,12 +1,18 @@
-## Hi there 👋
+## Welcome
 
-<!--
+We started this company to build technology to help athletes and coaches reach
+their full potential using two main principles:
 
-**Here are some ideas to get you started:**
+1. **Human-Centered Approach**: engaging with real coaches, real athletes, and
+   real teams to understand their needs and how best to build technology that
+   will aid them and never replace them; and
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+2. **Scientific Approach**: we make use of the latest research in Computer
+   Science, Sports Science, and Design to build the best technology possible
+   that is useful and enjoyable to use.
+
+## Current Projects
+
+### Training Days
+A remote-coaching platform built by incorporating the input of both athletes and
+coaches.
